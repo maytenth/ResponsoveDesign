@@ -2,7 +2,7 @@
 	
 	body {
 		
-		content: url(images/kitten-small.png);
+		content: url(kitten-small.png);
 		
 	}
 	
@@ -13,7 +13,7 @@
 	body {
 		
 	
-	content: url(images/kitten-medium.png);
+	content: url(kitten-medium.png);
 	}
 }
 
@@ -21,7 +21,7 @@
 	
 	body {
 		
-		content: url(images/kitten-large.png);
+		content: url(kitten-large.png);
 		
 	}
 }
