@@ -1,0 +1,34 @@
+body  {
+	background-image: url(gif1.gif)
+	
+}
+
+
+
+
+@media screen and (min-width: 250px) {
+	
+	img {
+		
+		content: url(images/kitten-small.png);
+		
+	}
+	
+}
+
+@media screen and (min-width: 500px) {
+	
+	img {
+		
+	
+	content: url(images/kitten-medium.png);
+	}
+}
+
+@media screen and (min-width: 800px) {
+	
+	img {
+		
+		content: url(images/kitten-large.png);
+		
+	}
