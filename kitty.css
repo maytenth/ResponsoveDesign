@@ -19,4 +19,9 @@
         content: url(images/kitten-large.png);
         
     }
+    
+     body {
+        background-image: url(giphy.gif)
+        
+    }
 
